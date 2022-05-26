@@ -28,8 +28,8 @@ Here is how it will look like:
 The Project is for generate insights into McRonald's orders. For ease of  maintenance the project broken down into multiple services
 
 ```
-$ tree css-take-home/ -L 1 -d
-css-take-home/
+$ tree mcRonalds/ -L 1 -d
+mcRonalds/
 ├── aggregator
 ├── db
 ├── insighter
