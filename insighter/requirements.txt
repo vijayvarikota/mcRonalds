@@ -1,0 +1,7 @@
+cryptography
+Flask==2.0.3
+Flask-MySQL==1.5.1
+PyMySQL==0.10.0
+dash==2.4.1
+pandas
+sqlalchemy
